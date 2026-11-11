@@ -7,6 +7,13 @@
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-in%20studio-ff8c00?style=for-the-badge)
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-in%20studio-4b0082?style=for-the-badge)
 
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004100?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ---
 
 ## 🔐 Chi sono
@@ -30,6 +37,7 @@ Mi appassionano reti e sistemi, telecomunicazioni, intelligenza artificiale e tu
 | Analisi | Malware Analysis, analisi del traffico di rete, reporting tecnico |
 | Programmazione | Python |
 | Reti e sistemi | TCP/IP, Network Security, Linux, Windows |
+| Strumenti | Kali Linux, Nmap, Wireshark, Metasploit, Burp Suite |
 
 ## 📂 Cosa trovi qui
 
@@ -52,6 +60,7 @@ Una posizione **junior** come Security Analyst, Penetration Tester o SOC Analyst
 ## 📫 Contatti
 
 - Email: [perri.daniele@protonmail.com](mailto:perri.daniele@protonmail.com)
+- LinkedIn: [daniele-perri-cybersecurity-specialist](https://www.linkedin.com/in/daniele-perri-cybersecurity-specialist)
 - Località: Roma, Italia
 
 ---
